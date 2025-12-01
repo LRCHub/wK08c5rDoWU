@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Stellar Stellar - From THE FIRST TAKE",
+  "base_artist": "Hoshimachi Suisei",
+  "createdAt": "2025-12-01T08:35:38.238019Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stellar Stellar",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/01_Stellar_Stellar_星街すいせい.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stellar Stellar",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/02_Stellar_Stellar_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stellar Stellar - From THE FIRST TAKE",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/03_Stellar_Stellar_-_From_THE_FIRST_TAKE_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "stellar stellar  from the first take",
+      "artist": "suisei hoshimachi",
+      "has_synced": true,
+      "path": "select/04_stellar_stellar_from_the_first_take_suisei_hoshimachi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stellar Stellar - From THE FIRST TAKE",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/05_Stellar_Stellar_-_From_THE_FIRST_TAKE_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stellar Stellar",
+      "artist": "Suisei Hoshimachi",
+      "has_synced": true,
+      "path": "select/06_Stellar_Stellar_Suisei_Hoshimachi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stellar Stellar (渋谷凛ソロ・リミックス)",
+      "artist": "渋谷凛(CV:福原綾香)",
+      "has_synced": true,
+      "path": "select/07_Stellar_Stellar_(渋谷凛ソロ・リミックス)_渋谷凛(CV_福原綾香).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stellar Stellar",
+      "artist": "Hoshimachi Suisei & Rin Shibuya (CV: Ayaka Fukuhara)",
+      "has_synced": false,
+      "path": "select/08_Stellar_Stellar_Hoshimachi_Suisei_&_Rin_Shibuya_(CV__Ayaka_Fukuhara).txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stellar Stellar - GAME VERSION",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/09_Stellar_Stellar_-_GAME_VERSION_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stellar Stellar (From \"THE FIRST TAKE\") (English)",
+      "artist": "Mewsic",
+      "has_synced": true,
+      "path": "select/10_Stellar_Stellar_(From__THE_FIRST_TAKE_)_(English)_Mewsic.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stellar Stellar",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/11_Stellar_Stellar_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stellar Stellar",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/12_Stellar_Stellar_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stellar Stellar (渋谷凛 ソロ・リミックス)",
+      "artist": "渋谷凛 (福原綾香)",
+      "has_synced": true,
+      "path": "select/13_Stellar_Stellar_(渋谷凛_ソロ・リミックス)_渋谷凛_(福原綾香).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stellar Stellar",
+      "artist": "Hoshimachi, Suisei、Shibuya, Rin(CV:Fukuhara, Ayaka)",
+      "has_synced": true,
+      "path": "select/14_Stellar_Stellar_Hoshimachi,_Suisei、Shibuya,_Rin(CV_Fukuhara,_Ayaka).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stellar Stellar",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_Stellar_Stellar_星街すいせい.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Stellar Stellar",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_02_Stellar_Stellar_星街すいせい.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Stellar Stellar - From THE FIRST TAKE",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_03_Stellar_Stellar_-_From_THE_FIRST_TAKE_星街すいせい.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Stellar Stellar",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_04_Stellar_Stellar_星街すいせい.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Stellar Stellar (GAME VERSION)",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_05_Stellar_Stellar_(GAME_VERSION)_星街すいせい.txt"
+    }
+  ]
+}
