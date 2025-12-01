@@ -1,4 +1,4 @@
-# Hoshimachi Suisei – Stellar Stellar - From THE FIRST TAKE
+# 星街すいせい – Stellar Stellar
 
 > **歌詞登録ステータス：同期歌詞あり**
 
